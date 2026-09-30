@@ -1,0 +1,78 @@
+{
+ "shipped": [
+  {
+   "id": "decretals",
+   "datei": "decretals",
+   "side": "papacy",
+   "kurz": "The pope's dossier: the decretals of John XXII",
+   "zk": "Decr.",
+   "warum": "Five decretals on 'the meaning of words', from Friedberg's Corpus iuris canonici, Latin with a working translation: obedience above poverty (1317); the question opened (1322); the Roman Church renounces its 'verbal, bare and enigmatic' ownership of the friars' goods, since no one can use an egg without owning it (1322); the assertion that Christ had nothing 'nor even in common' declared heretical (1323); the friars' 'key of knowledge' called a doctrine of the father of lies (1324)."
+  }
+ ],
+ "planned": [
+  {
+   "id": "exiit",
+   "side": "papacy",
+   "kurz": "The old decretals: Exiit qui seminat (1279) and Exivi de paradiso (1312)",
+   "warum": "What the dispute was about: Nicholas III's definition of Franciscan poverty, the 'simple use of fact' and the Roman Church's ownership, and Clement V's attempt to reconcile the Spirituals with the rest of the order.",
+   "quelle": "Friedberg, Corpus iuris canonici II (Leipzig 1881): Sext 5.12.3 and Clem. 5.11.1."
+  },
+  {
+   "id": "perugia",
+   "side": "order",
+   "kurz": "The general chapter of Perugia (June 1322)",
+   "warum": "The order's answer to the pope's question: that Christ and the apostles had nothing by right of property or ownership, individually or in common. The words John XXII condemned.",
+   "quelle": "Printed text to be identified among the public-domain editions (Wadding, Annales Minorum; Baluze, Miscellanea)."
+  },
+  {
+   "id": "chronica",
+   "side": "order",
+   "kurz": "The order's chronicle: Michael of Cesena",
+   "warum": "How the order remembered its general: his election, Perugia, the summons to Avignon, the flight, the deposition.",
+   "quelle": "Chronica XXIV Generalium Ordinis Minorum, in Analecta Franciscana III (Quaracchi 1897)."
+  },
+  {
+   "id": "appeal",
+   "side": "order",
+   "kurz": "Michael of Cesena's appeal (Pisa, 1328)",
+   "warum": "The general's case against the pope, after the flight: the heretic is John XXII.",
+   "quelle": "Baluze, Miscellanea, ed. Mansi, vol. III (Lucca 1762)."
+  },
+  {
+   "id": "sachsenhausen",
+   "side": "empire",
+   "kurz": "The emperor's appeal of Sachsenhausen (1324)",
+   "warum": "Louis the Bavarian's appeal against the pope, with its long passage on the poverty of Christ written by Franciscans: the dispute becomes imperial politics.",
+   "quelle": "MGH, Constitutiones V (1909–13). Rights to be checked."
+  },
+  {
+   "id": "ockham",
+   "side": "empire",
+   "kurz": "Ockham, Opus nonaginta dierum (1332–34)",
+   "warum": "The answer to Ad conditorem and Quia vir reprobus, point by point, from exile in Munich: use, right, ownership, and what an act is.",
+   "quelle": "Goldast, Monarchia S. Romani Imperii II (Frankfurt 1614). Excerpts."
+  },
+  {
+   "id": "gui",
+   "side": "spirituals",
+   "kurz": "Bernard Gui on the Beguins",
+   "warum": "The inquisitor of Toulouse on the Beguins of Provence: what they believed about poverty, how they were questioned, how they died.",
+   "quelle": "Bernard Gui, Practica inquisitionis heretice pravitatis, ed. C. Douais (Paris 1886)."
+  },
+  {
+   "id": "clareno",
+   "side": "spirituals",
+   "kurz": "Angelo Clareno, the seven tribulations",
+   "warum": "The Spirituals' own history of the order as a history of persecution.",
+   "quelle": "Historia septem tribulationum, ed. F. Ehrle, Archiv für Litteratur- und Kirchengeschichte II (1886)."
+  },
+  {
+   "id": "dante",
+   "side": "reception",
+   "kurz": "Dante, Paradiso XI: Francis and Lady Poverty",
+   "warum": "Written in the same years (c. 1316–1321): Thomas Aquinas praises Francis, who married Poverty, 'widowed' since Christ, and laments the Dominicans; Italian with Longfellow's translation.",
+   "quelle": "Dante, Paradiso XI; H. W. Longfellow, The Divine Comedy (Boston 1867)."
+  }
+ ],
+ "missing": []
+}

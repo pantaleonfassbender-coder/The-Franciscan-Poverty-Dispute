@@ -1,0 +1,157 @@
+{
+ "lede": "From the approval of the rule to the deaths in exile. Dates in the texts are given as printed; for what the texts carried here do not date, the timeline follows modern accounts and says so.",
+ "stations": [
+  {
+   "d": "1209/10",
+   "side": "order",
+   "titel": "A rule of the Gospel",
+   "text": "Innocent III approves by word of mouth the way of life of Francis of Assisi and his first brothers: to follow the Gospel without property. (Modern accounts.)"
+  },
+  {
+   "d": "29 November 1223",
+   "side": "order",
+   "titel": "The Regula bullata",
+   "text": "Honorius III confirms the definitive rule: the brothers shall appropriate nothing to themselves, neither house nor place nor anything else. John XXII quotes the words a century later.",
+   "cite": "#/text/decretals/conditorem/1",
+   "citeLabel": "Decr. Conditorem [1]"
+  },
+  {
+   "d": "1230–1245",
+   "side": "papacy",
+   "titel": "Use without ownership",
+   "text": "Gregory IX (Quo elongati, 1230) interprets the rule: the brothers have the use of things, not their ownership. Innocent IV (Ordinem vestrum, 1245) declares the ownership to belong to the Roman Church. (Modern accounts.)"
+  },
+  {
+   "d": "14 August 1279",
+   "side": "papacy",
+   "titel": "Exiit qui seminat",
+   "text": "Nicholas III defines Franciscan poverty: renunciation of ownership individually and in common is the way of Christ; the friars have only the simple use of fact; glossing the decretal is forbidden on pain of excommunication.",
+   "cite": "#/text/decretals/nonnunquam/2",
+   "citeLabel": "Decr. Nonnunquam [2]"
+  },
+  {
+   "d": "6 May 1312",
+   "side": "papacy",
+   "titel": "Exivi de paradiso",
+   "text": "At the Council of Vienne, Clement V tries to settle the quarrel between the Spirituals and the Community: a 'poor use', but the superiors judge what is poor. (Modern accounts.)"
+  },
+  {
+   "d": "7 August 1316",
+   "side": "papacy",
+   "titel": "John XXII elected",
+   "text": "After a two-year vacancy the cardinals at Lyon elect Jacques Duèze, a canon lawyer from Cahors, then in his seventies. In the same year the Franciscans elect Michael of Cesena their minister general. (Modern accounts.)"
+  },
+  {
+   "d": "7 October 1317",
+   "side": "papacy",
+   "titel": "Quorundam exigit",
+   "text": "The pope orders the Spirituals to put off their short habits and obey their superiors: 'obedience is the greatest good'.",
+   "cite": "#/text/decretals/exigit/5",
+   "citeLabel": "Decr. Exigit [5]"
+  },
+  {
+   "d": "7 May 1318",
+   "side": "spirituals",
+   "titel": "Four friars burned at Marseille",
+   "text": "Four Spiritual Franciscans who refused to obey are burned as heretics. Over the next decade the inquisitors of Provence and Languedoc burn Beguins who venerate them as martyrs. (Modern accounts.)"
+  },
+  {
+   "d": "1321",
+   "side": "spirituals",
+   "titel": "The Beguin of Narbonne",
+   "text": "An inquisitor declares heretical a Beguin's assertion that Christ and the apostles had nothing, individually or in common; a Franciscan lector objects that this contradicts Exiit. The question goes to the pope. (Modern accounts.)"
+  },
+  {
+   "d": "26 March 1322",
+   "side": "papacy",
+   "titel": "Quia nonnunquam",
+   "text": "John XXII suspends the ban on disputing Exiit: 'hidden truth is often opened by arguments'.",
+   "cite": "#/text/decretals/nonnunquam/3",
+   "citeLabel": "Decr. Nonnunquam [3]"
+  },
+  {
+   "d": "June 1322",
+   "side": "order",
+   "titel": "The chapter of Perugia",
+   "text": "The Franciscan general chapter declares that Christ and the apostles had nothing by right of property or ownership, individually or in common. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "8 December 1322",
+   "side": "papacy",
+   "titel": "Ad conditorem canonum",
+   "text": "The Roman Church renounces its ownership of the friars' goods: the Franciscans are made owners against their will.",
+   "cite": "#/text/decretals/conditorem/11",
+   "citeLabel": "Decr. Conditorem [11]"
+  },
+  {
+   "d": "14 January 1323",
+   "side": "order",
+   "titel": "Bonagratia's protest",
+   "text": "The order's procurator Bonagratia of Bergamo protests in consistory and is imprisoned. The pope reissues Ad conditorem in a sharper version. (Modern accounts.)"
+  },
+  {
+   "d": "18 July 1323",
+   "side": "papacy",
+   "titel": "Thomas Aquinas canonized",
+   "text": "John XXII canonizes the Dominican theologian at Avignon, four months before condemning the Franciscan doctrine. (Modern accounts.)"
+  },
+  {
+   "d": "12 November 1323",
+   "side": "papacy",
+   "titel": "Quum inter nonnullos",
+   "text": "The assertion that Christ and the apostles had nothing, 'nor even in common', is declared heretical.",
+   "cite": "#/text/decretals/nonnullos/1",
+   "citeLabel": "Decr. Nonnullos [1]"
+  },
+  {
+   "d": "22 May 1324",
+   "side": "empire",
+   "titel": "The appeal of Sachsenhausen",
+   "text": "Louis the Bavarian, excommunicated by the pope, appeals against him; a long passage on the poverty of Christ, written by Franciscans, calls John XXII a heretic. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "10 November 1324",
+   "side": "papacy",
+   "titel": "Quia quorundam",
+   "text": "The pope rejects the 'key of knowledge' and declares the defenders of the condemned doctrine heretics.",
+   "cite": "#/text/decretals/quorundam/4",
+   "citeLabel": "Decr. Quorundam [4]"
+  },
+  {
+   "d": "1324",
+   "side": "empire",
+   "titel": "Defensor pacis",
+   "text": "Marsilius of Padua completes his treatise against the temporal power of the clergy, with a long section on evangelical poverty; he flees to Louis in 1326. (Modern accounts.)"
+  },
+  {
+   "d": "26 May 1328",
+   "side": "order",
+   "titel": "The flight from Avignon",
+   "text": "Summoned to Avignon in 1327 and forbidden to leave, Michael of Cesena flees by night with William of Ockham and Bonagratia of Bergamo to the emperor, then in Italy. In Pisa he appeals against the pope. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1328–1329",
+   "side": "order",
+   "titel": "A new general",
+   "text": "Michael is deposed and excommunicated; the order elects Gerald Odonis and submits. John XXII answers Michael in the bull Quia vir reprobus (16 November 1329). (Modern accounts.)"
+  },
+  {
+   "d": "1331–1334",
+   "side": "papacy",
+   "titel": "The pope's own doctrine",
+   "text": "John XXII preaches that the souls of the blessed will not see God face to face until the Last Judgement; the Franciscan exiles in Munich call him a heretic again. He retracts on his deathbed and dies on 4 December 1334. (Modern accounts.)"
+  },
+  {
+   "d": "1342–1347",
+   "side": "empire",
+   "titel": "Deaths in exile",
+   "text": "Michael of Cesena dies in Munich on 29 November 1342, William of Ockham there in 1347. (Modern accounts.)"
+  },
+  {
+   "d": "1980",
+   "side": "reception",
+   "titel": "A novel",
+   "text": "Umberto Eco sets Il nome della rosa in November 1327, at an abbey where a papal delegation and Michael of Cesena's friars meet to debate the poverty of Christ. The meeting is fiction; the dispute is the one documented here."
+  }
+ ]
+}
