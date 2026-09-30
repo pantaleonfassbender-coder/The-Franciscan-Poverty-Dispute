@@ -5,7 +5,8 @@
    "d": "1209/10",
    "side": "order",
    "titel": "A rule of the Gospel",
-   "text": "Innocent III approves by word of mouth the way of life of Francis of Assisi and his first brothers: to follow the Gospel without property. (Modern accounts.)"
+   "text": "Innocent III approves by word of mouth the way of life of Francis of Assisi and his first brothers: to follow the Gospel without property. (Modern accounts.)",
+   "plate": "rule"
   },
   {
    "d": "29 November 1223",
@@ -13,7 +14,8 @@
    "titel": "The Regula bullata",
    "text": "Honorius III confirms the definitive rule: the brothers shall appropriate nothing to themselves, neither house nor place nor anything else. John XXII quotes the words a century later.",
    "cite": "#/text/decretals/conditorem/1",
-   "citeLabel": "Decr. Conditorem [1]"
+   "citeLabel": "Decr. Conditorem [1]",
+   "plate": "stigmata"
   },
   {
    "d": "1230–1245",
@@ -65,7 +67,8 @@
    "titel": "Four friars burned at Marseille",
    "text": "Four Spiritual Franciscans who refused to obey are burned as heretics. The Beguins of Languedoc venerate them as martyrs, and over the next years the inquisitors burn Beguins who say so.",
    "cite": "#/text/sentences/dominici/3",
-   "citeLabel": "Sent. Dominici [3]"
+   "citeLabel": "Sent. Dominici [3]",
+   "plate": "languedoc"
   },
   {
    "d": "c. 1316–1321",
@@ -73,7 +76,8 @@
    "titel": "Paradiso XI",
    "text": "Dante, in the last years of his life at Ravenna, has Thomas Aquinas tell the life of Francis as a marriage to Poverty, widowed since Christ. He dies in September 1321, half a year before the pope opens the question of Christ's poverty.",
    "cite": "#/text/dante/xi/6",
-   "citeLabel": "Par. XI [6]"
+   "citeLabel": "Par. XI [6]",
+   "plate": "poverty"
   },
   {
    "d": "1321",
@@ -95,7 +99,8 @@
    "titel": "The chapter of Perugia",
    "text": "The Franciscan general chapter, under Michael of Cesena, declares that to say Christ and the apostles had nothing by right of property 'individually and in common' is 'not heretical, but sound, catholic and faithful'. Forty-one masters of the order at Paris and in England approve.",
    "cite": "#/text/chronicle/perugia/2",
-   "citeLabel": "Chron. Perugia [2]"
+   "citeLabel": "Chron. Perugia [2]",
+   "plate": "perugia"
   },
   {
    "d": "12 September 1322",
@@ -103,7 +108,8 @@
    "titel": "Four Beguins to the secular arm",
    "text": "At a general sermon in Saint-Étienne of Toulouse, Bernard Gui hands Guillaume Ruffi, Pierre Dominici, Pierre Hospitalis and Pierre Guiraud to the king's judge, 'short of death and the mutilation of limbs'. Dominici had kept a litany with the names of about seventy condemned Beguins; Hospitalis held that the pope who allowed the friars granaries had ceased to be pope.",
    "cite": "#/text/sentences/dominici/5",
-   "citeLabel": "Sent. Dominici [5]"
+   "citeLabel": "Sent. Dominici [5]",
+   "plate": "limborch"
   },
   {
    "d": "8 December 1322",
@@ -133,7 +139,8 @@
    "titel": "Quum inter nonnullos",
    "text": "The assertion that Christ and the apostles had nothing, 'nor even in common', is declared heretical.",
    "cite": "#/text/decretals/nonnullos/1",
-   "citeLabel": "Decr. Nonnullos [1]"
+   "citeLabel": "Decr. Nonnullos [1]",
+   "plate": "nonnullos"
   },
   {
    "d": "c. 1323–1324",
@@ -149,7 +156,8 @@
    "titel": "The appeal of Sachsenhausen",
    "text": "Louis the Bavarian, excommunicated by the pope in March, appeals against 'John, who calls himself pope' to a general council, in the chapel of the Teutonic Order at Sachsenhausen by Frankfurt. A chapter on the poverty of Christ, drafted by Franciscans at his court, declares the pope a heretic by his own decretals.",
    "cite": "#/text/sachsenhausen/poverty/4",
-   "citeLabel": "Sachs. Poverty [4]"
+   "citeLabel": "Sachs. Poverty [4]",
+   "plate": "mgh733"
   },
   {
    "d": "10 November 1324",
@@ -195,7 +203,8 @@
    "titel": "The Work of Ninety Days",
    "text": "At Munich, under the emperor's protection, Ockham answers the pope's bull Quia vir reprobus phrase by phrase, and defines a right as a power one can defend in court.",
    "cite": "#/text/ockham/opus/3",
-   "citeLabel": "OND [3]"
+   "citeLabel": "OND [3]",
+   "plate": "ockham"
   },
   {
    "d": "1331–1334",

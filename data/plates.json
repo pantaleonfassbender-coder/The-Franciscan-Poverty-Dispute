@@ -1,5 +1,69 @@
 {
- "credit": "",
- "lede": "",
- "plates": []
+ "credit": "Plates: frescoes and a panel from Assisi and Pisa (c. 1295–1330) and a marginal drawing of Ockham (Cambridge, Gonville and Caius College, MS 464/571), from public-domain reproductions via the Web Gallery of Art and Wikimedia Commons; pages of the editions carried here (Friedberg, Glassberger, Limborch, the MGH) from the Internet Archive scans; and a schematic map drawn for this site. All public domain or CC0; resized for this site.",
+ "lede": "What the friars painted, the pages the texts are read from, and where the fire burned. Each plate names its source; the caption points to the passage it belongs with.",
+ "plates": [
+  {
+   "id": "rule",
+   "titel": "Innocent III approves the rule",
+   "side": "papacy",
+   "caption": "Francis and his first companions kneel before Innocent III, who approves their rule by word of mouth (1209/10). The Franciscans of the 1320s set this approval at the head of a chain of popes who had 'declared' the rule (Sachs. Poverty [2]); John XXII answered that it belongs to the maker of the canons to change what his predecessors ordained (Decr. Conditorem [1]).",
+   "source": "Legend of St Francis, scene 7, fresco, Upper Church of San Francesco, Assisi, c. 1295–1300, long attributed to Giotto; via Wikimedia Commons."
+  },
+  {
+   "id": "stigmata",
+   "titel": "The stigmata",
+   "side": "order",
+   "caption": "Francis receives the wounds of Christ from a seraph on La Verna (1224); in the predella, the dream of Innocent III, the approval of the rule and the sermon to the birds. The friars at Louis the Bavarian's court made the stigmata Christ's own seal on the rule, which no 'leaden bull' could overturn (Sachs. Poverty [3]).",
+   "source": "Giotto, Stigmatization of St Francis, tempera on panel, from San Francesco, Pisa, c. 1295–1300; Paris, Louvre, INV 309; via Web Gallery of Art and Wikimedia Commons."
+  },
+  {
+   "id": "poverty",
+   "titel": "Francis marries Lady Poverty",
+   "side": "reception",
+   "caption": "In the vault over the high altar of the Lower Church at Assisi, painted in the years of the dispute, Christ joins Francis in marriage to Poverty, barefoot among thorns, while children throw stones at her. It is the image of Dante's canto (Par. XI [5]–[6]): poverty as a bride, not a legal condition.",
+   "source": "Master of the Vele (workshop of Giotto), Allegory of Poverty, fresco, Lower Church of San Francesco, Assisi, c. 1315–1330; via Web Gallery of Art and Wikimedia Commons."
+  },
+  {
+   "id": "nonnullos",
+   "titel": "'Nec in communi etiam'",
+   "side": "papacy",
+   "caption": "Columns 1229–1230 of Friedberg's Corpus iuris canonici. At the head of the right-hand column stands the sentence John XXII declared heretical in 1323: that Christ and the apostles 'in speciali non habuisse aliqua, nec in communi etiam' (Decr. Nonnullos [1]). The companion game takes its title from it.",
+   "source": "Corpus iuris canonici, ed. E. Friedberg, II (Leipzig 1881), in the photomechanical reprint (Graz 1955); Internet Archive BD1141952."
+  },
+  {
+   "id": "perugia",
+   "titel": "The question in the order's chronicle",
+   "side": "order",
+   "caption": "Page 129 of Glassberger's chronicle: a Franciscan lector appeals to the apostolic see and comes to Avignon; the pope holds him at the curia and puts the question in public, 'whether to affirm pertinaciously that our Lord Jesus Christ and his apostles…'. Further down the page the general chapter meets at Perugia (Chron. Perugia [1]).",
+   "source": "Chronica fratris Nicolai Glassberger, Analecta Franciscana II (Quaracchi 1887), p. 129; Internet Archive analectafrancisc02coll."
+  },
+  {
+   "id": "limborch",
+   "titel": "A page of the Book of Sentences",
+   "side": "spirituals",
+   "caption": "Page 386 of Limborch's printing of Bernard Gui's Book of Sentences: the end of the sentence on Guillaume Ruffi and Pierre Dominici, relapsed, who are handed to the secular arm (Sent. Dominici [6]); below it begins the case of the two 'obstinate' Beguins, Pierre Hospitalis and Pierre Guiraud (Sent. Hospitalis [1]). The folio number of the Toulouse manuscript stands in the margin.",
+   "source": "Philipp van Limborch, Historia inquisitionis, vol. II: Liber sententiarum inquisitionis Tholosanae (Amsterdam 1692), p. 386; Internet Archive."
+  },
+  {
+   "id": "mgh733",
+   "titel": "Three degrees of poverty",
+   "side": "empire",
+   "caption": "Page 733 of the MGH edition of Louis the Bavarian's appeal of Sachsenhausen: 'high poverty is to have a few things of one's own for God's sake; higher, to have nothing of one's own but things in common; highest, to have nothing in this world, of one's own or in common' (Sachs. Poverty [2]). Schwalm's apparatus of variants fills the foot of the page.",
+   "source": "Monumenta Germaniae Historica, Constitutiones et acta publica V, ed. J. Schwalm (Hannover and Leipzig 1909–13), nr. 909, p. 733; Internet Archive monumentagerma05geseuoft."
+  },
+  {
+   "id": "ockham",
+   "titel": "'Frater Occham iste'",
+   "side": "empire",
+   "caption": "A pen sketch in the margin of a copy of Ockham's Summa logicae dated 1341, labelled 'frater Occham iste', 'this is brother Ockham': the only likeness made in his lifetime, while he lived in exile at Munich and wrote against John XXII (OND [1]).",
+   "source": "Cambridge, Gonville and Caius College, MS 464/571, fol. 69r; via Wikimedia Commons."
+  },
+  {
+   "id": "languedoc",
+   "titel": "The Beguins' Languedoc",
+   "side": "spirituals",
+   "caption": "The places where Bernard Gui says Beguins were condemned and burned from 1317 (Practica [1], [4]); Toulouse, where he held the general sermon of 12 September 1322; Pamiers, where the inquisition in the province of Toulouse began in 1321; Sérignan, Olivi's birthplace (Practica [2]); and Avignon, where the pope sat. A schematic map drawn for this site.",
+   "source": "Drawn for this site (CC0)."
+  }
+ ]
 }
