@@ -15,6 +15,14 @@
    "kurz": "The pope's dossier: the decretals of John XXII",
    "zk": "Decr.",
    "warum": "Five decretals on 'the meaning of words', from Friedberg's Corpus iuris canonici, Latin with a working translation: obedience above poverty (1317); the question opened (1322); the Roman Church renounces its 'verbal, bare and enigmatic' ownership of the friars' goods, since no one can use an egg without owning it (1322); the assertion that Christ had nothing 'nor even in common' declared heretical (1323); the friars' 'key of knowledge' called a doctrine of the father of lies (1324)."
+  },
+  {
+   "id": "sentences",
+   "datei": "sentences",
+   "side": "spirituals",
+   "kurz": "The Book of Sentences: four Beguins handed to the secular arm (1322)",
+   "zk": "Sent.",
+   "warum": "Bernard Gui's general sermon at Toulouse, 12 September 1322, from the register of the inquisition printed by Limborch (1692), Latin read from the page with a working translation: Guillaume Ruffi, who asked how the Beguins burned at Narbonne had died; Pierre Dominici, who took off his crosses, called John XXII a heretic for allowing the friars granaries, and kept a litany of about seventy condemned; Pierre Hospitalis, for whom the pope had ceased to be pope; Pierre Guiraud, who would not swear to name his companions; and the sentences 'short of death', which meant death."
   }
  ],
  "planned": [
@@ -54,17 +62,10 @@
    "quelle": "Goldast, Monarchia S. Romani Imperii II (Frankfurt 1614). Excerpts."
   },
   {
-   "id": "sentences",
-   "side": "spirituals",
-   "kurz": "The Book of Sentences of the inquisition of Toulouse",
-   "warum": "Bernard Gui's sentences, 1307–1323, among them the Beguins who held that the pope could not change the rule of Francis: each by name, place, belief and penalty. The game's list of the burned will be taken from here and link to each sentence.",
-   "quelle": "Liber sententiarum inquisitionis Tholosanae, in Philipp van Limborch, Historia inquisitionis (Amsterdam 1692), vol. II. Internet Archive. Public domain."
-  },
-  {
    "id": "gui",
    "side": "spirituals",
-   "kurz": "Bernard Gui on the Beguins",
-   "warum": "The inquisitor of Toulouse on the Beguins of Provence: what they believed about poverty, how they were questioned, how they died.",
+   "kurz": "Bernard Gui's manual: the Beguins",
+   "warum": "The inquisitor's own description of the Beguins in his Practica: what they believe about poverty, Olivi and the pope, and how to question them.",
    "quelle": "Bernard Gui, Practica inquisitionis heretice pravitatis, ed. C. Douais (Paris 1886)."
   },
   {

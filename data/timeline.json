@@ -55,7 +55,9 @@
    "d": "7 May 1318",
    "side": "spirituals",
    "titel": "Four friars burned at Marseille",
-   "text": "Four Spiritual Franciscans who refused to obey are burned as heretics. Over the next decade the inquisitors of Provence and Languedoc burn Beguins who venerate them as martyrs. (Modern accounts.)"
+   "text": "Four Spiritual Franciscans who refused to obey are burned as heretics. The Beguins of Languedoc venerate them as martyrs, and over the next years the inquisitors burn Beguins who say so.",
+   "cite": "#/text/sentences/dominici/3",
+   "citeLabel": "Sent. Dominici [3]"
   },
   {
    "d": "1321",
@@ -76,6 +78,14 @@
    "side": "order",
    "titel": "The chapter of Perugia",
    "text": "The Franciscan general chapter declares that Christ and the apostles had nothing by right of property or ownership, individually or in common. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "12 September 1322",
+   "side": "spirituals",
+   "titel": "Four Beguins to the secular arm",
+   "text": "At a general sermon in Saint-Étienne of Toulouse, Bernard Gui hands Guillaume Ruffi, Pierre Dominici, Pierre Hospitalis and Pierre Guiraud to the king's judge, 'short of death and the mutilation of limbs'. Dominici had kept a litany with the names of about seventy condemned Beguins; Hospitalis held that the pope who allowed the friars granaries had ceased to be pope.",
+   "cite": "#/text/sentences/dominici/5",
+   "citeLabel": "Sent. Dominici [5]"
   },
   {
    "d": "8 December 1322",

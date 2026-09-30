@@ -1,5 +1,5 @@
 {
- "lede": "The dispute was, before anything else, an argument between popes: John XXII read Nicholas III and answered him. Each pair sets the decretal of 1279 beside the decretals of the 1320s.",
+ "lede": "The dispute was, before anything else, an argument between popes: John XXII read Nicholas III and answered him. The pairs set the decretals side by side, and beside them the Beguins whom the inquisitor sentenced for holding the older doctrine.",
  "pairs": [
   {
    "id": "purse",
@@ -113,6 +113,57 @@
      "n": [
       2,
       3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "granaries",
+   "titel": "Granaries and cellars",
+   "frage": "Three answers to one question: may the friars store grain and wine?",
+   "note": "Clement V allowed granaries only in real need; John XXII left the judgement to the superiors and commanded obedience; the Beguins condemned in 1322 held that no pope could allow them, and that John XXII had ceased to be pope for doing so.",
+   "voices": [
+    {
+     "text": "exiit",
+     "sec": "exivi",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "exigit",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "sentences",
+     "sec": "hospitalis",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heretic",
+   "titel": "Who is the heretic?",
+   "frage": "The same sentence, condemned from both sides within fourteen months.",
+   "note": "In September 1322 the Beguin Pierre Hospitalis was handed to the secular arm holding that whoever says Christ and the apostles had anything, of their own or in common, is a heretic. In November 1323 John XXII declared heretical the assertion that they had nothing, individually or in common.",
+   "voices": [
+    {
+     "text": "sentences",
+     "sec": "hospitalis",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "nonnullos",
+     "n": [
+      1
      ]
     }
    ]
