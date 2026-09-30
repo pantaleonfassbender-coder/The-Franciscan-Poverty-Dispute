@@ -55,16 +55,17 @@
    "kurz": "The appeal of Sachsenhausen (22 May 1324)",
    "zk": "Sachs.",
    "warum": "Louis the Bavarian's appeal against 'John, who calls himself pope', in the first form drafted with Franciscans at his court, from Schwalm's MGH edition (1909–13): the king's charges, the chapter on the highest poverty (the stigmata as Christ's seal on the rule, 'which no leaden bull can overturn'; the key of knowledge that binds every later pope), and the appeal to a council in the words of Philip IV against Boniface VIII."
+  },
+  {
+   "id": "ockham",
+   "datei": "ockham",
+   "side": "empire",
+   "kurz": "Ockham, Opus nonaginta dierum (c. 1332–1334)",
+   "zk": "OND",
+   "warum": "Ockham's answer from Munich to Quia vir reprobus, in Goldast's printing (1614), seven excerpts read from the page images with a working translation: the prologue that reports both sides and replies 'to nothing, since I do not know'; use of fact and the right of using, defined as a power one can defend in court, and the poor guests at a rich man's table; property as a power that came after the fall; Judas's purse; what a pope may and may not change; and the heretic who will not be corrected."
   }
  ],
  "planned": [
-  {
-   "id": "ockham",
-   "side": "empire",
-   "kurz": "Ockham, Opus nonaginta dierum (1332–34)",
-   "warum": "The answer to Ad conditorem and Quia vir reprobus, point by point, from exile in Munich: use, right, ownership, and what an act is.",
-   "quelle": "Goldast, Monarchia S. Romani Imperii II (Frankfurt 1614). Excerpts."
-  },
   {
    "id": "gui",
    "side": "spirituals",

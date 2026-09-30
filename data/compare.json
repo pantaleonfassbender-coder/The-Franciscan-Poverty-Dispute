@@ -287,6 +287,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "guests",
+   "titel": "Use without a right?",
+   "frage": "The pope's argument, and Ockham's guests.",
+   "note": "John XXII argued that a use without any right to use would be an unjust use, and so could not be the perfection of the friars. Ockham's answer, a decade later, is the guest at a rich man's table: he uses licitly, by the host's grace, and has no right, because he cannot sue the host who takes the dish away.",
+   "voices": [
+    {
+     "text": "decretals",
+     "sec": "conditorem",
+     "n": [
+      9
+     ]
+    },
+    {
+     "text": "ockham",
+     "sec": "opus",
+     "n": [
+      3
+     ]
+    }
+   ]
   }
  ]
 }
