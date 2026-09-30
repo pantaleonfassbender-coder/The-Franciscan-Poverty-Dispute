@@ -1,5 +1,7 @@
 # The Franciscan Poverty Dispute
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23066129.svg)](https://doi.org/10.5281/zenodo.23066129)
+
 A documentary apparatus for the Franciscan poverty dispute, 1316–1329: did Christ and the apostles own anything, individually or in common? Public-domain sources with the Latin beside a working English translation, a timeline linked into the texts, a Compare page, and a list of what is not carried and why.
 
 Its thesis: the argument was won and the order was lost. Pope John XXII did not refute the Franciscan doctrine of poverty; he abolished its legal basis (1322), declared its central claim heretical (1323) and its defenders heretics (1324). The minister general Michael of Cesena fled to the emperor with William of Ockham in 1328 and died excommunicated in Munich; the order submitted. The argument about poverty became an argument about the power of popes.
@@ -25,7 +27,7 @@ The companion game *Nec in communi* takes its title from the condemned sentence 
 
 ## Citation
 
-Fassbender, Pantaleon. *The Franciscan Poverty Dispute: A Documentary Apparatus, 1316–1329.* 2026. Version 1.0.0. https://the-poverty-dispute.netlify.app/ (DOI to follow). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *The Franciscan Poverty Dispute: A Documentary Apparatus, 1316–1329.* 2026. https://doi.org/10.5281/zenodo.23066129 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23066130). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 ## Building the data
 

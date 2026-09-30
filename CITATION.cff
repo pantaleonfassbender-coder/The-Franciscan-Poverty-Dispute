@@ -33,5 +33,13 @@ keywords:
   - canon law
   - digital humanities
 license: MIT
+doi: 10.5281/zenodo.23066129
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23066129
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23066130
+    description: "Version 1.0.0"
 version: 1.0.0
 date-released: 2026-09-30
