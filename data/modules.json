@@ -71,16 +71,16 @@
    "kurz": "Bernard Gui's manual: the sect of the Beguins (c. 1323–1324)",
    "zk": "Practica",
    "warum": "The inquisitor of Toulouse on the lay followers of Olivi, from his Practica in Douais's edition (1886), eleven excerpts read against the page images with a working translation: Olivi read in the vernacular in 'houses of poverty', the greeting 'Blessed be Jesus Christ', the articles on Christ's poverty and on a pope who allowed granaries and so ceased to be pope, the four friars of Marseille venerated as martyrs, the bones of the burned kept as relics, and the questions to put to a suspect."
-  }
- ],
- "planned": [
+  },
   {
    "id": "clareno",
+   "datei": "clareno",
    "side": "spirituals",
-   "kurz": "Angelo Clareno, the seven tribulations",
-   "warum": "The Spirituals' own history of the order as a history of persecution.",
-   "quelle": "Historia septem tribulationum, ed. F. Ehrle, Archiv für Litteratur- und Kirchengeschichte II (1886)."
+   "kurz": "Angelo Clareno, the seven tribulations (c. 1323–1330)",
+   "zk": "Clareno",
+   "warum": "The Spirituals' own history, by a man who stood before John XXII in 1317, from Ehrle's edition (1886), twelve excerpts read against the page images with a working translation: Olivi's violated grave, the audiences at Avignon ('Nolumus, nolumus'; 'ask them why they drove me out'; 'you wear five tunics'), the four burned at Marseille, Bonagratia as the Community's prosecutor, the question of 1321 and the verdict that the order now defended poverty 'by the same spirit' that had persecuted it, Ubertino made a monk, and Francis's habit in the form of a cross."
   }
  ],
+ "planned": [],
  "missing": []
 }

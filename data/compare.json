@@ -331,6 +331,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "spirit",
+   "titel": "The same spirit?",
+   "frage": "Perugia, seen by the order and by a Spiritual.",
+   "note": "In 1322 the general chapter at Perugia declared that Christ and the apostles had nothing, individually or in common, sealed by the masters of the order. Angelo Clareno, whom the same order had driven out, welcomed the doctrine and doubted the defenders: they fought for the poverty of Olivi, he wrote, in the spirit in which they had persecuted Olivi's friends, 'lest they lose the name without the thing'.",
+   "voices": [
+    {
+     "text": "chronicle",
+     "sec": "perugia",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "clareno",
+     "sec": "tribulations",
+     "n": [
+      10
+     ]
+    }
+   ]
   }
  ]
 }
