@@ -1,0 +1,24 @@
+{
+  "upload_type": "dataset",
+  "title": "The Franciscan Poverty Dispute: A Documentary Apparatus, 1316–1329",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for the Franciscan poverty dispute, 1316&ndash;1329: did Christ and the apostles own anything, individually or in common? Its thesis: the argument was won and the order was lost. Pope John XXII did not refute the Franciscan doctrine; he abolished its legal basis (1322), declared its central claim heretical (1323) and its defenders heretics (1324). The minister general Michael of Cesena fled to Louis the Bavarian with William of Ockham in 1328; the order submitted in 1329; the argument about poverty became an argument about the power of popes.</p><p>Ten modules from public-domain editions, with the original beside a working English translation (CC0), every excerpt read against the page images: the decretals <em>Exiit qui seminat</em> (1279) and <em>Exivi de paradiso</em> (1312), and the five decretals of John XXII (1317&ndash;1324), from Friedberg's <em>Corpus iuris canonici</em> II (1881); Bernard Gui's sentences against four Beguins at Toulouse, 1322 (Limborch 1692); Nicholas Glassberger's chronicle of the order (<em>Analecta Franciscana</em> II, 1887); Michael of Cesena's appeal of Avignon, 1328 (Baluze-Mansi III, 1762); Dante's <em>Paradiso</em> XI (Moore 1904, with Longfellow's translation of 1867); Louis the Bavarian's appeal of Sachsenhausen, 1324, with its chapter on the highest poverty (MGH <em>Constitutiones</em> V, ed. Schwalm, 1909&ndash;13); Ockham's <em>Opus nonaginta dierum</em> (Goldast, <em>Monarchia</em> II, 1614); Bernard Gui's <em>Practica</em> on the sect of the Beguins (Douais 1886); and Angelo Clareno's <em>Historia septem tribulationum</em> (Ehrle 1886). With a timeline linked into the texts and a Compare page setting the voices side by side on fifteen questions.</p><p>What is not carried is listed with reasons: above all Peter John Olivi's own writings, available in full only in modern editions in copyright; <em>Quia vir reprobus</em>, carried through Ockham's quotations; Michael's long appeal of Pisa; the Chronicle of the Twenty-Four Generals; Marsilius of Padua; and Umberto Eco's novel, named and never quoted. Companion game: <em>Nec in communi</em> (https://nec-in-communi.netlify.app/).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions, working translations and derived data CC0 1.0 &mdash; see LICENSES.md. Live site: https://the-poverty-dispute.netlify.app/</p>",
+  "license": "MIT",
+  "keywords": [
+    "Franciscan poverty dispute",
+    "John XXII",
+    "Michael of Cesena",
+    "William of Ockham",
+    "Spiritual Franciscans",
+    "Beguins",
+    "Louis the Bavarian",
+    "canon law",
+    "medieval inquisition",
+    "digital humanities"
+  ]
+}

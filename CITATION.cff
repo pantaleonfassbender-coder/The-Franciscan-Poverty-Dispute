@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "The Franciscan Poverty Dispute: A Documentary Apparatus, 1316–1329"
+message: "If you use this apparatus, please cite it as below — and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/The-Franciscan-Poverty-Dispute"
+url: "https://the-poverty-dispute.netlify.app/"
+abstract: >-
+  A documentary apparatus for the Franciscan poverty dispute, 1316-1329,
+  built from public-domain editions with the original beside a working
+  English translation, every excerpt read against the page images: the
+  decretals Exiit qui seminat and Exivi de paradiso and the five decretals
+  of John XXII (Friedberg 1881); Bernard Gui's sentences against four
+  Beguins (Limborch 1692) and his Practica on the Beguins (Douais 1886);
+  the order's chronicle (Analecta Franciscana II, 1887); Michael of
+  Cesena's appeal of Avignon (Baluze-Mansi III, 1762); Dante's Paradiso XI
+  (Moore 1904, Longfellow 1867); the appeal of Sachsenhausen (MGH
+  Constitutiones V, 1909-13); Ockham's Opus nonaginta dierum (Goldast
+  1614); and Angelo Clareno's Historia septem tribulationum (Ehrle 1886).
+  With a timeline, a Compare page on fifteen questions, and an explicit
+  list of what is not carried and why, above all Olivi's own writings.
+  Companion game: Nec in communi.
+keywords:
+  - Franciscan poverty dispute
+  - John XXII
+  - Michael of Cesena
+  - William of Ockham
+  - Spiritual Franciscans
+  - Beguins
+  - canon law
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-09-30

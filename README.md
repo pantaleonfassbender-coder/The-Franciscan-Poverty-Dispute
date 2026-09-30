@@ -1,10 +1,10 @@
 # The Franciscan Poverty Dispute
 
-A documentary apparatus for the Franciscan poverty dispute, 1316–1329: did Christ and the apostles own anything, individually or in common? Public-domain sources with the Latin beside a working English translation, a timeline linked into the texts, and a list of what is still to come.
+A documentary apparatus for the Franciscan poverty dispute, 1316–1329: did Christ and the apostles own anything, individually or in common? Public-domain sources with the Latin beside a working English translation, a timeline linked into the texts, a Compare page, and a list of what is not carried and why.
 
 Its thesis: the argument was won and the order was lost. Pope John XXII did not refute the Franciscan doctrine of poverty; he abolished its legal basis (1322), declared its central claim heretical (1323) and its defenders heretics (1324). The minister general Michael of Cesena fled to the emperor with William of Ockham in 1328 and died excommunicated in Munich; the order submitted. The argument about poverty became an argument about the power of popes.
 
-Stage 1 (September 2026, in progress) carries ten modules:
+**Stage 1 is closed (September 2026).** It carries ten modules:
 
 - **The old decretals: Exiit qui seminat and Exivi de paradiso** — Nicholas III (1279, Sext 5.12.3) and Clement V at Vienne (1312, Clem. 5.11.1), in Friedberg's *Corpus iuris canonici* II, cols. 1109–1121 and 1193–1199: the definition of Franciscan poverty, Christ's purse, the five degrees from property to the simple use of fact, the Roman Church's ownership, money through a third hand, the ban on glossing; the Spirituals' complaints and the ruling on 'poor use'. Excerpts, Latin read against the page images, with a working translation.
 - **The pope's dossier: the decretals of John XXII** — Extravagantes Ioannis XXII, tit. XIV *De verborum significatione*, c. 1–5 (1317–1324), in Friedberg's *Corpus iuris canonici* II (Leipzig 1881), cols. 1220–1236: *Quorundam exigit* (excerpts), *Quia nonnunquam*, *Ad conditorem canonum*, *Quum inter nonnullos* (in full), *Quia quorundam* (excerpts). Latin from two OCRs of the photomechanical reprint compared word by word and read against the page images, with a working translation.
@@ -19,9 +19,13 @@ Stage 1 (September 2026, in progress) carries ten modules:
 
 A **Compare** page sets Nicholas III beside John XXII on five questions (the purse, use without ownership, the owner of the friars' bread, the ban on discussion, whether a pope can revoke a pope), the king's Franciscans beside John XXII on two (the seal of the rule, and the key of knowledge), Ockham beside the pope on use without a right, the Beguins beside the king's appeal on the same argument, Clareno beside the Perugia chapter, the condemned Beguins beside both on two more (granaries, and who is the heretic), and the Perugia chapter between Nicholas III and John XXII on the sentence itself.
 
-The Texts page lists what is carried and what is not, with the reason (`data/modules.json`).
+The Texts page lists what is carried and what is not, with the reason (`data/modules.json`): above all Peter John Olivi's own writings, available in full only in modern editions in copyright; *Quia vir reprobus*, carried only through Ockham's quotations; Michael's long appeal of Pisa; the Chronicle of the Twenty-Four Generals; Marsilius of Padua; and Umberto Eco's novel, which is named and never quoted.
 
 The companion game *Nec in communi* takes its title from the condemned sentence of 1323: that Christ and the apostles had nothing *in speciali … nec in communi etiam*.
+
+## Citation
+
+Fassbender, Pantaleon. *The Franciscan Poverty Dispute: A Documentary Apparatus, 1316–1329.* 2026. Version 1.0.0. https://the-poverty-dispute.netlify.app/ (DOI to follow). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 ## Building the data
 

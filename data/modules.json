@@ -82,5 +82,48 @@
   }
  ],
  "planned": [],
- "missing": []
+ "missing": [
+  {
+   "id": "olivi",
+   "side": "spirituals",
+   "kurz": "Peter John Olivi's own writings",
+   "warum": "The author behind the Beguins, the Spirituals and the Perugia doctrine is present here only through others: the inquisitor, Clareno and the condemned. His questions on evangelical poverty and on 'poor use' and his postill on the Apocalypse are available in full only in modern editions still in copyright; the older extracts printed by Ehrle (1887) were not examined for this stage. A gap by necessity.",
+   "quelle": "Modern editions (20th–21st century), in copyright."
+  },
+  {
+   "id": "viroreprobus",
+   "side": "papacy",
+   "kurz": "Quia vir reprobus (16 November 1325), the bull itself",
+   "warum": "John XXII's long reply to Michael of Cesena, with the argument that Adam had property before the fall. It is public domain and printed in the Bullarium Franciscanum, but it is carried only through Ockham, who quotes it phrase by phrase (OND). A gap by choice.",
+   "quelle": "Bullarium Franciscanum V (Rome 1898)."
+  },
+  {
+   "id": "pisa",
+   "side": "order",
+   "kurz": "Michael of Cesena's appeal of Pisa, 'in majori forma' (1328)",
+   "warum": "The long appeal Michael renewed at Pisa, to the Church and a general council, with its articles against the pope; only the short appeal of Avignon is carried. A gap by choice, for length.",
+   "quelle": "Baluze, Miscellanea, ed. Mansi, III (Lucca 1762), pp. 246 ff."
+  },
+  {
+   "id": "chronica24",
+   "side": "order",
+   "kurz": "The Chronicle of the Twenty-Four Generals",
+   "warum": "The order's fourteenth-century chronicle, on which Glassberger draws. No scan of its edition could be used; the order's voice is carried through Glassberger, who copies it. A gap by necessity.",
+   "quelle": "Analecta Franciscana III (Quaracchi 1897)."
+  },
+  {
+   "id": "marsilius",
+   "side": "empire",
+   "kurz": "Marsilius of Padua, Defensor pacis (1324)",
+   "warum": "The other great theorist at Louis's court. He treats evangelical poverty at length in the second discourse (chapters 12–14), but as part of an argument against the temporal power of the clergy, not as a document of the dispute itself; he appears here on the timeline only. A gap by choice.",
+   "quelle": "Defensor pacis, ed. C. W. Previté-Orton (Cambridge 1928)."
+  },
+  {
+   "id": "eco",
+   "side": "reception",
+   "kurz": "Umberto Eco, Il nome della rosa (1980)",
+   "warum": "The novel that made the dispute famous is set in its last year, 1327. It is in copyright and is named, never quoted.",
+   "quelle": "In copyright."
+  }
+ ]
 }
