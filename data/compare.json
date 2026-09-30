@@ -1,4 +1,121 @@
 {
- "lede": "",
- "pairs": []
+ "lede": "The dispute was, before anything else, an argument between popes: John XXII read Nicholas III and answered him. Each pair sets the decretal of 1279 beside the decretals of the 1320s.",
+ "pairs": [
+  {
+   "id": "purse",
+   "titel": "Did Christ have a purse?",
+   "frage": "The same purse, two readings.",
+   "note": "Nicholas III explains the purse Judas carried as Christ's condescension to the weak, like his flight into Egypt: the perfect way remains to have nothing, individually or in common. John XXII reads the purse, and the scriptural places where the apostles had things, as proof that the assertion 'nothing, nor even in common' contradicts scripture.",
+   "voices": [
+    {
+     "text": "exiit",
+     "sec": "exiit",
+     "n": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "nonnullos",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "use",
+   "titel": "Can one use without owning?",
+   "frage": "The five degrees and the egg.",
+   "note": "Nicholas III distinguishes property, possession, usufruct, the right of using and the simple use of fact, and answers the Roman-law rule against separating use from ownership for ever. John XXII quotes that answer back: the rule concerns things that survive their use, and in bread, eggs and cheese no use can be separated from ownership.",
+   "voices": [
+    {
+     "text": "exiit",
+     "sec": "exiit",
+     "n": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "conditorem",
+     "n": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "owner",
+   "titel": "Who owns the friars' bread?",
+   "frage": "The Roman Church takes the ownership in 1279 and renounces it in 1322.",
+   "note": "Nicholas III gives the ownership to the Roman Church as 'father of all and specially of the Friars Minor', so that it may not be uncertain. John XXII calls that ownership 'verbal, bare and enigmatic' and renounces it for the future, with the procurators who litigated in the Church's name.",
+   "voices": [
+    {
+     "text": "exiit",
+     "sec": "exiit",
+     "n": [
+      6
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "conditorem",
+     "n": [
+      4,
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glosses",
+   "titel": "May the question be discussed?",
+   "frage": "A ban on glossing, and its suspension.",
+   "note": "Nicholas III forbade, on pain of excommunication, any gloss on Exiit beyond the grammatical, and reserved every doubt to the apostolic see. John XXII suspended the ban in March 1322 because 'hidden truth is often opened by arguments', and then settled the question himself.",
+   "voices": [
+    {
+     "text": "exiit",
+     "sec": "exiit",
+     "n": [
+      8
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "nonnunquam",
+     "n": [
+      2,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "revoke",
+   "titel": "Can a pope revoke a pope?",
+   "frage": "The key of knowledge.",
+   "note": "Nicholas III declared Exiit valid for ever and forbade anyone to dogmatize against it. The friars argued that what a pope had defined by the key of knowledge his successor could not undo; John XXII called that argument the work of the father of lies.",
+   "voices": [
+    {
+     "text": "exiit",
+     "sec": "exiit",
+     "n": [
+      8
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "quorundam",
+     "n": [
+      2,
+      3
+     ]
+    }
+   ]
+  }
+ ]
 }

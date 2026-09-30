@@ -1,6 +1,14 @@
 {
  "shipped": [
   {
+   "id": "exiit",
+   "datei": "exiit",
+   "side": "papacy",
+   "kurz": "The old decretals: Exiit qui seminat (1279) and Exivi de paradiso (1312)",
+   "zk": "Exiit / Exivi",
+   "warum": "What the dispute was about, from Friedberg's Corpus iuris canonici, Latin with a working translation, in excerpts: Nicholas III declares renunciation of ownership 'not only individually but also in common' the way of Christ, explains Christ's purse as condescension to the weak, and distinguishes property, possession, usufruct, the right of using and the 'simple use of fact'; the Roman Church takes the ownership; no one may gloss it. Clement V at Vienne hears the Spirituals' list of the Community's excesses and rules on granaries and 'poor use'."
+  },
+  {
    "id": "decretals",
    "datei": "decretals",
    "side": "papacy",
@@ -10,13 +18,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "exiit",
-   "side": "papacy",
-   "kurz": "The old decretals: Exiit qui seminat (1279) and Exivi de paradiso (1312)",
-   "warum": "What the dispute was about: Nicholas III's definition of Franciscan poverty, the 'simple use of fact' and the Roman Church's ownership, and Clement V's attempt to reconcile the Spirituals with the rest of the order.",
-   "quelle": "Friedberg, Corpus iuris canonici II (Leipzig 1881): Sext 5.12.3 and Clem. 5.11.1."
-  },
   {
    "id": "perugia",
    "side": "order",

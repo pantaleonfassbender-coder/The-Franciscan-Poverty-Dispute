@@ -49,7 +49,7 @@ function overview() {
       <span class="tag">1316–1329 · John XXII · Michael of Cesena · William of Ockham</span>
       <h1>Did Christ own anything?</h1>
       <p class="lede">In the 1320s the question divided the Church. The Franciscans held that Christ and the apostles had owned nothing, individually or in common, and that the friars, like them, only used what others owned. Pope John XXII declared this heretical. The minister general of the order and its best theologians fled to the emperor, and the argument about poverty became an argument about the power of popes.</p>
-      <p class="readable">This apparatus follows the dispute through its documents, in public-domain editions with the Latin beside a working English translation: the pope's decretals, the friars' declarations and appeals, the chroniclers, the inquisitor, and the poet who wrote of Francis marrying Lady Poverty. It begins with the pope's own dossier, the five decretals of John XXII on the meaning of words.</p>
+      <p class="readable">This apparatus follows the dispute through its documents, in public-domain editions with the Latin beside a working English translation: the pope's decretals, the friars' declarations and appeals, the chroniclers, the inquisitor, and the poet who wrote of Francis marrying Lady Poverty. It begins with the two papal dossiers: the decretals of 1279 and 1312 that defined Franciscan poverty, and the five decretals of John XXII that undid the definition. The Compare page sets them side by side.</p>
       <p class="quote">"… that our Redeemer and Lord Jesus Christ and his apostles had nothing individually, nor even in common …"
       <br><span class="fine">The assertion John XXII declared heretical in 1323 ·
       <a href="#/text/decretals/nonnullos/1">Decr. Nonnullos [1]</a></span></p>
@@ -144,7 +144,7 @@ async function compare([pid]) {
   const pair = (CMP.pairs || []).find(p => p.id === pid);
   if (!pair) {
     view.innerHTML = `
-      <span class="tag">Compare</span><h1>Two sides of one moment</h1>
+      <span class="tag">Compare</span><h1>Pope against pope</h1>
       <p class="lede">${esc(CMP.lede)}</p>
       <div class="grid g2">${(CMP.pairs || []).map(p => `<a class="card" href="#/compare/${p.id}">
         <div>${p.voices.map(v => side((D.mods.shipped.find(m => m.id === v.text) || {}).side)).join(" ")}</div>
