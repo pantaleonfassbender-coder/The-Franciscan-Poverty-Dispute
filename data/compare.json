@@ -242,6 +242,51 @@
      ]
     }
    ]
+  },
+  {
+   "id": "seal",
+   "titel": "A seal no bull can break",
+   "frage": "The rule's legal basis, and its other seal.",
+   "note": "John XXII renounced the Roman Church's ownership of the friars' goods, which since 1279 had made their poverty legally possible. The friars at Louis's court answered that the rule bore a seal no pope could break: the stigmata, Christ's own bull, against which a 'leaden bull' was powerless.",
+   "voices": [
+    {
+     "text": "decretals",
+     "sec": "conditorem",
+     "n": [
+      11
+     ]
+    },
+    {
+     "text": "sachsenhausen",
+     "sec": "poverty",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "keyquote",
+   "titel": "The argument and its answer",
+   "frage": "The key of knowledge, in the appeal and in the bull.",
+   "note": "In May 1324 the friars' chapter in Louis's appeal set out why no pope may revoke what a predecessor defined by the key of knowledge. In November the pope quoted the argument back, almost word for word, as the teaching of the father of lies.",
+   "voices": [
+    {
+     "text": "sachsenhausen",
+     "sec": "poverty",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "quorundam",
+     "n": [
+      2,
+      3
+     ]
+    }
+   ]
   }
  ]
 }

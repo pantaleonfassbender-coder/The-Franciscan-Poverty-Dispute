@@ -47,16 +47,17 @@
    "kurz": "Dante, Paradiso XI: Francis and Lady Poverty",
    "zk": "Par. XI",
    "warum": "The whole canto, in Moore's Oxford text (1904) and Longfellow's translation (1867): Thomas Aquinas tells the life of Francis as a marriage to Poverty, widowed eleven hundred years since she 'climbed the cross with Christ', and ends with the decline of his own Dominican order. Written in the years of the first phase of the dispute, before the pope's question of 1322."
+  },
+  {
+   "id": "sachsenhausen",
+   "datei": "sachsenhausen",
+   "side": "empire",
+   "kurz": "The appeal of Sachsenhausen (22 May 1324)",
+   "zk": "Sachs.",
+   "warum": "Louis the Bavarian's appeal against 'John, who calls himself pope', in the first form drafted with Franciscans at his court, from Schwalm's MGH edition (1909–13): the king's charges, the chapter on the highest poverty (the stigmata as Christ's seal on the rule, 'which no leaden bull can overturn'; the key of knowledge that binds every later pope), and the appeal to a council in the words of Philip IV against Boniface VIII."
   }
  ],
  "planned": [
-  {
-   "id": "sachsenhausen",
-   "side": "empire",
-   "kurz": "The emperor's appeal of Sachsenhausen (1324)",
-   "warum": "Louis the Bavarian's appeal against the pope, with its long passage on the poverty of Christ written by Franciscans: the dispute becomes imperial politics.",
-   "quelle": "MGH, Constitutiones V (1909–13). Rights to be checked."
-  },
   {
    "id": "ockham",
    "side": "empire",
