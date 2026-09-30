@@ -53,6 +53,13 @@
    "quelle": "Goldast, Monarchia S. Romani Imperii II (Frankfurt 1614). Excerpts."
   },
   {
+   "id": "sentences",
+   "side": "spirituals",
+   "kurz": "The Book of Sentences of the inquisition of Toulouse",
+   "warum": "Bernard Gui's sentences, 1307–1323, among them the Beguins who held that the pope could not change the rule of Francis: each by name, place, belief and penalty. The game's list of the burned will be taken from here and link to each sentence.",
+   "quelle": "Liber sententiarum inquisitionis Tholosanae, in Philipp van Limborch, Historia inquisitionis (Amsterdam 1692), vol. II. Internet Archive. Public domain."
+  },
+  {
    "id": "gui",
    "side": "spirituals",
    "kurz": "Bernard Gui on the Beguins",
