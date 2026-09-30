@@ -63,16 +63,17 @@
    "kurz": "Ockham, Opus nonaginta dierum (c. 1332–1334)",
    "zk": "OND",
    "warum": "Ockham's answer from Munich to Quia vir reprobus, in Goldast's printing (1614), seven excerpts read from the page images with a working translation: the prologue that reports both sides and replies 'to nothing, since I do not know'; use of fact and the right of using, defined as a power one can defend in court, and the poor guests at a rich man's table; property as a power that came after the fall; Judas's purse; what a pope may and may not change; and the heretic who will not be corrected."
+  },
+  {
+   "id": "gui",
+   "datei": "gui",
+   "side": "spirituals",
+   "kurz": "Bernard Gui's manual: the sect of the Beguins (c. 1323–1324)",
+   "zk": "Practica",
+   "warum": "The inquisitor of Toulouse on the lay followers of Olivi, from his Practica in Douais's edition (1886), eleven excerpts read against the page images with a working translation: Olivi read in the vernacular in 'houses of poverty', the greeting 'Blessed be Jesus Christ', the articles on Christ's poverty and on a pope who allowed granaries and so ceased to be pope, the four friars of Marseille venerated as martyrs, the bones of the burned kept as relics, and the questions to put to a suspect."
   }
  ],
  "planned": [
-  {
-   "id": "gui",
-   "side": "spirituals",
-   "kurz": "Bernard Gui's manual: the Beguins",
-   "warum": "The inquisitor's own description of the Beguins in his Practica: what they believe about poverty, Olivi and the pope, and how to question them.",
-   "quelle": "Bernard Gui, Practica inquisitionis heretice pravitatis, ed. C. Douais (Paris 1886)."
-  },
   {
    "id": "clareno",
    "side": "spirituals",

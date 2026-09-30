@@ -309,6 +309,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "stake",
+   "titel": "From the stake to the court",
+   "frage": "The same argument, in Languedoc and at Frankfurt.",
+   "note": "Beguins in Languedoc told the inquisitor that no pope may undo what a predecessor confirmed, and that a pope who does so is no pope; for this they were burned. Two years later the friars at Louis's court put the same argument into the king's appeal, as a theory of the key of knowledge.",
+   "voices": [
+    {
+     "text": "gui",
+     "sec": "beguins",
+     "n": [
+      7
+     ]
+    },
+    {
+     "text": "sachsenhausen",
+     "sec": "poverty",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }
