@@ -31,16 +31,25 @@
    "kurz": "The order's chronicle: Perugia, the appeal, the flight (1322–1329)",
    "zk": "Chron.",
    "warum": "Nicholas Glassberger's chronicle, from the Analecta Franciscana (1887), Latin with a working translation: the letter of the general chapter of Perugia (4 June 1322) that Christ and the apostles had nothing 'individually and in common', signed by Michael of Cesena and his masters; Michael before the pope 'not as reverently as he ought'; Bonagratia's appeal and his year in a dark prison; the galley, the flight by night, the deposition at Bologna, the appeal nailed to the doors of Pisa, and the chapter of Paris that declared the pope 'had defined well'."
+  },
+  {
+   "id": "appeal",
+   "datei": "appeal",
+   "side": "order",
+   "kurz": "Michael of Cesena's appeal (Avignon, 13 April 1328)",
+   "zk": "Appeal",
+   "warum": "The general's own account, in the notarial instrument he had drawn up in secret in the Franciscan convent of Avignon, from Baluze-Mansi (1762), Latin read from the page with a working translation: summoned, sick, received 'peacefully and kindly'; then on 9 April called 'a supporter of heretics' for the Perugia letter; 'if it were heretical, Pope Nicholas would have been a heretic'; a pope who condemns Exiit condemns himself; the appeal made 'from a fear that can fall on a steadfast man'."
+  },
+  {
+   "id": "dante",
+   "datei": "dante",
+   "side": "reception",
+   "kurz": "Dante, Paradiso XI: Francis and Lady Poverty",
+   "zk": "Par. XI",
+   "warum": "The whole canto, in Moore's Oxford text (1904) and Longfellow's translation (1867): Thomas Aquinas tells the life of Francis as a marriage to Poverty, widowed eleven hundred years since she 'climbed the cross with Christ', and ends with the decline of his own Dominican order. Written in the years of the first phase of the dispute, before the pope's question of 1322."
   }
  ],
  "planned": [
-  {
-   "id": "appeal",
-   "side": "order",
-   "kurz": "Michael of Cesena's appeal (Pisa, 1328)",
-   "warum": "The general's full case against the pope, nailed to the cathedral doors of Pisa on 12 December 1328 (the order's chronicle reports it; the text itself is still to come).",
-   "quelle": "Baluze, Miscellanea, ed. Mansi, vol. III (Lucca 1762)."
-  },
   {
    "id": "sachsenhausen",
    "side": "empire",
@@ -68,13 +77,6 @@
    "kurz": "Angelo Clareno, the seven tribulations",
    "warum": "The Spirituals' own history of the order as a history of persecution.",
    "quelle": "Historia septem tribulationum, ed. F. Ehrle, Archiv für Litteratur- und Kirchengeschichte II (1886)."
-  },
-  {
-   "id": "dante",
-   "side": "reception",
-   "kurz": "Dante, Paradiso XI: Francis and Lady Poverty",
-   "warum": "Written in the same years (c. 1316–1321): Thomas Aquinas praises Francis, who married Poverty, 'widowed' since Christ, and laments the Dominicans; Italian with Longfellow's translation.",
-   "quelle": "Dante, Paradiso XI; H. W. Longfellow, The Divine Comedy (Boston 1867)."
   }
  ],
  "missing": []

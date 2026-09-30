@@ -196,6 +196,52 @@
      ]
     }
    ]
+  },
+  {
+   "id": "audience",
+   "titel": "Michael before the pope",
+   "frage": "The same audiences, told by the man and by his order.",
+   "note": "The order's chronicle, written after the submission, says Michael defended Perugia before the pope 'not as reverently and prudently as he ought', and so raised 'a great tribulation for the order'. Michael's appeal tells of a pope who received him 'peacefully and kindly', left him in peace for four months, and then called him a supporter of heretics.",
+   "voices": [
+    {
+     "text": "chronicle",
+     "sec": "perugia",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "appeal",
+     "sec": "avignon",
+     "n": [
+      2,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bride",
+   "titel": "Poverty: a law or a bride?",
+   "frage": "The same poverty in a decretal and in a poem.",
+   "note": "Nicholas III defines poverty in five legal degrees, from property to the simple use of fact. Dante, writing in the same years as the first quarrels, makes her a widow who climbed the cross with Christ and married Francis before his father. The canonists asked what the friars owned; the poet asked whom they loved.",
+   "voices": [
+    {
+     "text": "exiit",
+     "sec": "exiit",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "dante",
+     "sec": "xi",
+     "n": [
+      5,
+      6
+     ]
+    }
+   ]
   }
  ]
 }
