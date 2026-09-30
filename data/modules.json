@@ -23,28 +23,22 @@
    "kurz": "The Book of Sentences: four Beguins handed to the secular arm (1322)",
    "zk": "Sent.",
    "warum": "Bernard Gui's general sermon at Toulouse, 12 September 1322, from the register of the inquisition printed by Limborch (1692), Latin read from the page with a working translation: Guillaume Ruffi, who asked how the Beguins burned at Narbonne had died; Pierre Dominici, who took off his crosses, called John XXII a heretic for allowing the friars granaries, and kept a litany of about seventy condemned; Pierre Hospitalis, for whom the pope had ceased to be pope; Pierre Guiraud, who would not swear to name his companions; and the sentences 'short of death', which meant death."
+  },
+  {
+   "id": "chronicle",
+   "datei": "chronicle",
+   "side": "order",
+   "kurz": "The order's chronicle: Perugia, the appeal, the flight (1322–1329)",
+   "zk": "Chron.",
+   "warum": "Nicholas Glassberger's chronicle, from the Analecta Franciscana (1887), Latin with a working translation: the letter of the general chapter of Perugia (4 June 1322) that Christ and the apostles had nothing 'individually and in common', signed by Michael of Cesena and his masters; Michael before the pope 'not as reverently as he ought'; Bonagratia's appeal and his year in a dark prison; the galley, the flight by night, the deposition at Bologna, the appeal nailed to the doors of Pisa, and the chapter of Paris that declared the pope 'had defined well'."
   }
  ],
  "planned": [
   {
-   "id": "perugia",
-   "side": "order",
-   "kurz": "The general chapter of Perugia (June 1322)",
-   "warum": "The order's answer to the pope's question: that Christ and the apostles had nothing by right of property or ownership, individually or in common. The words John XXII condemned.",
-   "quelle": "Printed text to be identified among the public-domain editions (Wadding, Annales Minorum; Baluze, Miscellanea)."
-  },
-  {
-   "id": "chronica",
-   "side": "order",
-   "kurz": "The order's chronicle: Michael of Cesena",
-   "warum": "How the order remembered its general: his election, Perugia, the summons to Avignon, the flight, the deposition.",
-   "quelle": "Chronica XXIV Generalium Ordinis Minorum, in Analecta Franciscana III (Quaracchi 1897)."
-  },
-  {
    "id": "appeal",
    "side": "order",
    "kurz": "Michael of Cesena's appeal (Pisa, 1328)",
-   "warum": "The general's case against the pope, after the flight: the heretic is John XXII.",
+   "warum": "The general's full case against the pope, nailed to the cathedral doors of Pisa on 12 December 1328 (the order's chronicle reports it; the text itself is still to come).",
    "quelle": "Baluze, Miscellanea, ed. Mansi, vol. III (Lucca 1762)."
   },
   {

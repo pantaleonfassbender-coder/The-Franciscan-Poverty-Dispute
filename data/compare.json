@@ -2,6 +2,35 @@
  "lede": "The dispute was, before anything else, an argument between popes: John XXII read Nicholas III and answered him. The pairs set the decretals side by side, and beside them the Beguins whom the inquisitor sentenced for holding the older doctrine.",
  "pairs": [
   {
+   "id": "nothing",
+   "titel": "Nothing, individually or in common",
+   "frage": "One sentence in 1279, 1322 and 1323.",
+   "note": "Nicholas III declared the renunciation of ownership 'both individually and in common' meritorious and holy. The Franciscan chapter at Perugia quoted him and declared the thesis 'not heretical, but sound, catholic and faithful'. John XXII declared it heretical.",
+   "voices": [
+    {
+     "text": "exiit",
+     "sec": "exiit",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "chronicle",
+     "sec": "perugia",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "decretals",
+     "sec": "nonnullos",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
    "id": "purse",
    "titel": "Did Christ have a purse?",
    "frage": "The same purse, two readings.",

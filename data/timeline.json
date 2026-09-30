@@ -74,10 +74,12 @@
    "citeLabel": "Decr. Nonnunquam [3]"
   },
   {
-   "d": "June 1322",
+   "d": "4 June 1322",
    "side": "order",
    "titel": "The chapter of Perugia",
-   "text": "The Franciscan general chapter declares that Christ and the apostles had nothing by right of property or ownership, individually or in common. (Modern accounts; module planned.)"
+   "text": "The Franciscan general chapter, under Michael of Cesena, declares that to say Christ and the apostles had nothing by right of property 'individually and in common' is 'not heretical, but sound, catholic and faithful'. Forty-one masters of the order at Paris and in England approve.",
+   "cite": "#/text/chronicle/perugia/2",
+   "citeLabel": "Chron. Perugia [2]"
   },
   {
    "d": "12 September 1322",
@@ -99,7 +101,9 @@
    "d": "14 January 1323",
    "side": "order",
    "titel": "Bonagratia's protest",
-   "text": "The order's procurator Bonagratia of Bergamo protests in consistory and is imprisoned. The pope reissues Ad conditorem in a sharper version. (Modern accounts.)"
+   "text": "The order's procurator Bonagratia of Bergamo appeals in consistory against Ad conditorem and is thrown into 'a dark prison' for a year less twenty days.",
+   "cite": "#/text/chronicle/appeal/1",
+   "citeLabel": "Chron. Appeal [1]"
   },
   {
    "d": "18 July 1323",
@@ -139,13 +143,17 @@
    "d": "26 May 1328",
    "side": "order",
    "titel": "The flight from Avignon",
-   "text": "Summoned to Avignon in 1327 and forbidden to leave, Michael of Cesena flees by night with William of Ockham and Bonagratia of Bergamo to the emperor, then in Italy. In Pisa he appeals against the pope. (Modern accounts; module planned.)"
+   "text": "On 13 April 1328 Michael of Cesena appeals secretly against the pope in the Franciscan convent of Avignon; on the night of 26 May he flees with William of Ockham and Bonagratia to a galley sent by the emperor. On 12 December he fixes his appeal to the doors of the cathedral of Pisa.",
+   "cite": "#/text/chronicle/flight/1",
+   "citeLabel": "Chron. Flight [1]"
   },
   {
    "d": "1328–1329",
    "side": "order",
    "titel": "A new general",
-   "text": "Michael is deposed and excommunicated; the order elects Gerald Odonis and submits. John XXII answers Michael in the bull Quia vir reprobus (16 November 1329). (Modern accounts.)"
+   "text": "Michael is deposed at Bologna (1328); at Paris on Pentecost 1329 the order elects Gerald Odonis and declares that the pope 'had defined well on the poverty of Christ'. John XXII answers Michael in the bull Quia vir reprobus (16 November 1329).",
+   "cite": "#/text/chronicle/flight/4",
+   "citeLabel": "Chron. Flight [4]"
   },
   {
    "d": "1331–1334",

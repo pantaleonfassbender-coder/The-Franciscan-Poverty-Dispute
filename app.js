@@ -62,7 +62,7 @@ function overview() {
   <h2>The questions it asks</h2>
   <div class="grid g2">
     <div class="panel"><h3>What was the dispute about?</h3>
-      <p>Not whether the friars should be poor, which no one denied, but what their poverty was in law. Since 1279 the Roman Church owned the order's houses, books and bread, and the friars had only the "simple use of fact". John XXII held that this was a fiction: no one can use bread without consuming it, and so owning it. In 1322 he handed the ownership back (<a href="#/text/decretals/conditorem/1">Decr. Conditorem [1]</a>).</p></div>
+      <p>Not whether the friars should be poor, which no one denied, but what their poverty was in law. Since 1279 the Roman Church owned the order's houses, books and bread, and the friars had only the "simple use of fact". John XXII held that this was a fiction: no one can use bread without consuming it, and so owning it. In 1322 he handed the ownership back (<a href="#/text/decretals/conditorem/1">Decr. Conditorem [1]</a>), after the Franciscan chapter at Perugia had declared the opposite 'sound, catholic and faithful' (<a href="#/text/chronicle/perugia/2">Chron. Perugia [2]</a>).</p></div>
     <div class="panel"><h3>Could a pope revoke a pope?</h3>
       <p>The friars answered that what one pope had defined by the "key of knowledge" in matters of faith, his successors could not undo. John XXII called this a doctrine of the father of lies (<a href="#/text/decretals/quorundam/1">Decr. Quorundam [1]</a>). The question outlived the dispute.</p></div>
     <div class="panel"><h3>Who paid?</h3>
