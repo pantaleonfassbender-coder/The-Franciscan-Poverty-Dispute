@@ -23,7 +23,7 @@ A **Compare** page sets Nicholas III beside John XXII on five questions (the pur
 
 The Texts page lists what is carried and what is not, with the reason (`data/modules.json`): above all Peter John Olivi's own writings, available in full only in modern editions in copyright; *Quia vir reprobus*, carried only through Ockham's quotations; Michael's long appeal of Pisa; the Chronicle of the Twenty-Four Generals; Marsilius of Padua; and Umberto Eco's novel, which is named and never quoted.
 
-The companion game *Nec in communi* takes its title from the condemned sentence of 1323: that Christ and the apostles had nothing *in speciali … nec in communi etiam*.
+The companion game [*Nec in communi*](https://nec-in-communi.netlify.app/) (also on [itch.io](https://leofassb.itch.io/nec-in-communi)) takes its title from the condemned sentence of 1323: that Christ and the apostles had nothing *in speciali … nec in communi etiam*.
 
 ## Citation
 
