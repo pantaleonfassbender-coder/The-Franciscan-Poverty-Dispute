@@ -27,7 +27,7 @@ The companion game [*Nec in communi*](https://nec-in-communi.netlify.app/) (also
 
 ## Citation
 
-Fassbender, Pantaleon. *The Franciscan Poverty Dispute: A Documentary Apparatus, 1316–1329.* 2026. https://doi.org/10.5281/zenodo.23066129 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23066130). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *The Franciscan Poverty Dispute: A Documentary Apparatus, 1316–1329.* 2026. https://doi.org/10.5281/zenodo.23066129 (all versions; version 1.0.1: https://doi.org/10.5281/zenodo.23067724; version 1.0.0: https://doi.org/10.5281/zenodo.23066130). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 ## Building the data
 
